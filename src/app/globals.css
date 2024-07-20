@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+.e-rte-image  {
+  max-width: 100% !important;
+  height: auto;
+  
+}
